@@ -13,7 +13,7 @@ def main():
     """
 
     # Exemplo de caminho base (ajuste conforme sua estrutura)
-    base_path = r"C:\Caminho\para\pasta\anos"  # Ajuste para o seu caso real
+    base_path = r"E:\\A_PMSJ\\ITBI\\Processos"  # Ajuste para o seu caso real
 
     # Escolha qual estratégia de extração deseja utilizar:
     # 1) Extração local usando PyPDF2
